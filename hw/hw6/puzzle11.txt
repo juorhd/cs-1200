@@ -1,0 +1,10 @@
+board 6 5
+rows ? ? ? ? ? ?
+cols ? ? ? ? ?
+unknown
+unknown
+unknown
+unknown
+unknown
+unknown
+constraint 0 0 <

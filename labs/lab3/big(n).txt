@@ -1,0 +1,101 @@
+size of uintptr_t: 8
+x address: 0x7fff5fbff5a8
+a address: 0x7fff5fbff800
+b address: 0x7fff5fbff7d0
+y address: 0x7fff5fbff5a0
+z address: 0x7fff5fbff598
+-----------------------------------------
+     location: 0x7fff5fbff848  VALUE:   1
+     location: 0x7fff5fbff840  VALUE:   0
+     location: 0x7fff5fbff838  garbage? 
+     location: 0x7fff5fbff830  POINTER: 0x7fff5fbff840
+     location: 0x7fff5fbff828  garbage? 
+a[4] location: 0x7fff5fbff820  VALUE:   5
+     location: 0x7fff5fbff818  VALUE:   4
+     location: 0x7fff5fbff810  VALUE:   3
+     location: 0x7fff5fbff808  garbage? 
+a[0] location: 0x7fff5fbff800  garbage? 
+     location: 0x7fff5fbff7f8  garbage? 
+b[4] location: 0x7fff5fbff7f0  VALUE:   25
+     location: 0x7fff5fbff7e8  VALUE:   16
+     location: 0x7fff5fbff7e0  VALUE:   9
+     location: 0x7fff5fbff7d8  VALUE:   4
+b[0] location: 0x7fff5fbff7d0  VALUE:   1
+     location: 0x7fff5fbff7c8  POINTER: 0x7fff5fbff4e0
+     location: 0x7fff5fbff7c0  POINTER: 0x7fff5fbff4e0
+     location: 0x7fff5fbff7b8  POINTER: 0x7fff5fbff4e0
+     location: 0x7fff5fbff7b0  POINTER: 0x7fff5fbff4e0
+     location: 0x7fff5fbff7a8  POINTER: 0x7fff5fbff4e0
+     location: 0x7fff5fbff7a0  garbage? 
+     location: 0x7fff5fbff798  POINTER: 0x7fff5fbff4e0
+     location: 0x7fff5fbff790  garbage? 
+     location: 0x7fff5fbff788  POINTER: 0x7fff5fbff4f8
+     location: 0x7fff5fbff780  POINTER: 0x7fff5fbff4f8
+     location: 0x7fff5fbff778  POINTER: 0x7fff5fbff4f8
+     location: 0x7fff5fbff770  POINTER: 0x7fff5fbff4f8
+     location: 0x7fff5fbff768  POINTER: 0x7fff5fbff4f8
+     location: 0x7fff5fbff760  garbage? 
+     location: 0x7fff5fbff758  POINTER: 0x7fff5fbff4f8
+     location: 0x7fff5fbff750  garbage? 
+     location: 0x7fff5fbff748  POINTER: 0x7fff5fbff510
+     location: 0x7fff5fbff740  POINTER: 0x7fff5fbff510
+     location: 0x7fff5fbff738  POINTER: 0x7fff5fbff510
+     location: 0x7fff5fbff730  POINTER: 0x7fff5fbff510
+     location: 0x7fff5fbff728  POINTER: 0x7fff5fbff510
+     location: 0x7fff5fbff720  garbage? 
+     location: 0x7fff5fbff718  POINTER: 0x7fff5fbff510
+     location: 0x7fff5fbff710  garbage? 
+     location: 0x7fff5fbff708  POINTER: 0x7fff5fbff528
+     location: 0x7fff5fbff700  POINTER: 0x7fff5fbff528
+     location: 0x7fff5fbff6f8  POINTER: 0x7fff5fbff528
+     location: 0x7fff5fbff6f0  POINTER: 0x7fff5fbff528
+     location: 0x7fff5fbff6e8  POINTER: 0x7fff5fbff528
+     location: 0x7fff5fbff6e0  garbage? 
+     location: 0x7fff5fbff6d8  POINTER: 0x7fff5fbff528
+     location: 0x7fff5fbff6d0  garbage? 
+     location: 0x7fff5fbff6c8  POINTER: 0x7fff5fbff540
+     location: 0x7fff5fbff6c0  POINTER: 0x7fff5fbff540
+     location: 0x7fff5fbff6b8  POINTER: 0x7fff5fbff540
+     location: 0x7fff5fbff6b0  POINTER: 0x7fff5fbff540
+     location: 0x7fff5fbff6a8  POINTER: 0x7fff5fbff540
+     location: 0x7fff5fbff6a0  garbage? 
+     location: 0x7fff5fbff698  POINTER: 0x7fff5fbff540
+     location: 0x7fff5fbff690  garbage? 
+     location: 0x7fff5fbff688  POINTER: 0x7fff5fbff558
+     location: 0x7fff5fbff680  POINTER: 0x7fff5fbff558
+     location: 0x7fff5fbff678  POINTER: 0x7fff5fbff558
+     location: 0x7fff5fbff670  POINTER: 0x7fff5fbff558
+     location: 0x7fff5fbff668  POINTER: 0x7fff5fbff558
+     location: 0x7fff5fbff660  garbage? 
+     location: 0x7fff5fbff658  POINTER: 0x7fff5fbff558
+     location: 0x7fff5fbff650  garbage? 
+     location: 0x7fff5fbff648  POINTER: 0x7fff5fbff580
+     location: 0x7fff5fbff640  POINTER: 0x7fff5fbff580
+     location: 0x7fff5fbff638  POINTER: 0x7fff5fbff580
+     location: 0x7fff5fbff630  POINTER: 0x7fff5fbff580
+     location: 0x7fff5fbff628  POINTER: 0x7fff5fbff580
+     location: 0x7fff5fbff620  garbage? 
+     location: 0x7fff5fbff618  POINTER: 0x7fff5fbff580
+     location: 0x7fff5fbff610  garbage? 
+     location: 0x7fff5fbff608  garbage? 
+     location: 0x7fff5fbff600  garbage? 
+     location: 0x7fff5fbff5f8  garbage? 
+     location: 0x7fff5fbff5f0  garbage? 
+     location: 0x7fff5fbff5e8  garbage? 
+     location: 0x7fff5fbff5e0  garbage? 
+     location: 0x7fff5fbff5d8  garbage? 
+     location: 0x7fff5fbff5d0  garbage? 
+     location: 0x7fff5fbff5c8  garbage? 
+     location: 0x7fff5fbff5c0  garbage? 
+     location: 0x7fff5fbff5b8  garbage? 
+     location: 0x7fff5fbff5b0  garbage? 
+   x location: 0x7fff5fbff5a8  VALUE:   72
+   y location: 0x7fff5fbff5a0  POINTER: 0x7fff5fbff5a8
+   z location: 0x7fff5fbff598  VALUE:   98
+     location: 0x7fff5fbff590  VALUE:   0
+     location: 0x7fff5fbff588  VALUE:   0
+     location: 0x7fff5fbff580  garbage? 
+     location: 0x7fff5fbff578  VALUE:   0
+     location: 0x7fff5fbff570  VALUE:   0
+-----------------------------------------
+Program ended with exit code: 0
